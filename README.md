@@ -1,4 +1,7 @@
 ## Hi there 👋
+QubitSoft helps business develop with the right solution.
+
+Contact: https://www.linkedin.com/in/joebunchoo
 
 <!--
 **sthlmj/sthlmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
