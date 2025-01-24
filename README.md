@@ -1,5 +1,5 @@
 ## Hi there 👋
-QubitSoft helps business develop with the right solution.
+QubitSoft is the software company that helps business develop with the right solution.
 
 Contact: https://www.linkedin.com/in/joebunchoo
 
