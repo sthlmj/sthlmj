@@ -1,5 +1,4 @@
 ## Hi there 👋
-Qubitsoft is the software company that helps business thrive with the right solution.
 
 Contact: https://www.linkedin.com/in/joebunchoo
 
